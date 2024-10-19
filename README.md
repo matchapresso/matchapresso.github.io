@@ -4,7 +4,7 @@
 Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation student_ with experience in AI, ML, and business automation. I specialize in **large language models (LLMs)**, **time-series forecasting**, and **data-driven decision-making**. 
 
 ## Education
-- 🎓 **Bachelor of Science in Computer Science**, [University Name] (2021-2025 Expected)  
+- 🎓 **Bachelor of Science in Electronics and Instrumentation**, Universitas Gadjah Mada] (2021-2025 Expected)  
   Focus: Machine Learning, Data Analysis, Renewable Energy
 
 ## Skills
