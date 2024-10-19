@@ -51,8 +51,8 @@ adjusted the specification to the building position, suggested panel, and existi
 - 🏅 **[2nd Tier on #JuaraGCP Season 10](https://www.linkedin.com/posts/arakirana_juaragcps10-juaragcps10-activity-7234510321476874240-dhm-?utm_source=share&utm_medium=member_desktop)**
 
 ## 8. Talks
-- 🎤**[Speaker and Contributor at Watt's Next, Podcast by SRE UGM collaborate with DEM UGM](https://www.youtube.com/watch?v=QXUHPuVZ3Uc&feature=youtu.be)** (2023)
-- 🎤 **[Speaker at Zenius Live QnA Alumni Series](#)** – Zenius (2021)
+- 🎤 **[Speaker and Contributor at Watt's Next, Podcast by SRE UGM collaborate with DEM UGM](https://www.youtube.com/watch?v=QXUHPuVZ3Uc&feature=youtu.be)**  (2023)
+- 🎤 **[Speaker at Zenius Live QnA Alumni Series](#)** Zenius (2021)
 
 ## 8. Contact
 
