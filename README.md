@@ -40,7 +40,7 @@ adjusted the specification to the building position, suggested panel, and existi
 - 🏆 **[3rd Runner Up (Harapan 1) on "Kurva"](https://drive.google.com/file/d/1qjlQPilz_Vnc1plb1pQVrPQL_dwHzo-E/view?usp=drive_link)** - PT. Pupuk Kujang (2024)
 - 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Pusat Prestasi Nasional Kemdikbud (2024)
 - 🏆 **[Finalist in Pagelaran Mahasiswa Tingkat Nasional Bidang Teknologi Informasi dan Komunikasi (GemasTIK) in ICT Scientific Paper Category](https://drive.google.com/file/d/10kXy5K5DCgAGSb0FtnoPz6M_J9Ukt2Z6/view?usp=sharing)** – Pusat Prestasi Nasional Kemdikbud (2023)
-- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Pusat Prestasi Nasional Kemdikbud (2023)
+- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](https://drive.google.com/file/d/1_jb_dGXTLZYbJ_0eda005LPbfP5fRxdL/view?usp=drive_link)** - Pusat Prestasi Nasional Kemdikbud (2023)
 - 🏆 **[Finalist in Pagelaran Mahasiswa Tingkat Nasional Bidang Teknologi Informasi dan Komunikasi (GemasTIK) in Smart Devices, Embedded System, and Internet of Things Category](https://drive.google.com/file/d/1kQMg7TK0fTz_-Y2z0W9yOn9yq0CCl8CS/view?usp=drive_link)** – Pusat Prestasi Nasional Kemdikbud (2022)
 - 🏆 **[ Top 10 of CTA Challenge in Impact Circle 3.0 AIESEC Universitas Padjajaran](https://drive.google.com/file/d/10kXy5K5DCgAGSb0FtnoPz6M_J9Ukt2Z6/view?usp=sharing)** – AIESEC Universitas Padjajaran (2022)
 
