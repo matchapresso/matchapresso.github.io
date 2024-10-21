@@ -1,14 +1,14 @@
 # Areta Vahtsa's Portfolio
 
 ## Summary
-Hello! My name is **Areta Vahtsa**, and I am an _Electronics and Instrumentation student_ with experience in AI, ML, and business automation. I specialize in **mahine learning**, **large language models (LLMs)**, and **data-driven decision-making**. Propelled by her passion, I am aiming to create more inventions and impact in the innovation of emerging AI/ML technology.
+Hello! My name is **Areta Vahtsa**, and I am an _Electronics and Instrumentation student_ with experience in AI, ML, and industrial automation. I specialize in **mahine learning**, **large language models (LLMs)**, and **data-driven decision-making**. Propelled by her passion, I am aiming to create more inventions and impact in the innovation of emerging AI/ML technology.
 
 ## Education
 - 🎓 **Bachelor of Science in Electronics and Instrumentation, Universitas Gadjah Mada** (2021-2025 Expected)  
   Focus and Activities:
-  1. Machine Learning, Data Analysis, Renewable Energy
+  1. Machine Learning, Data Science, Renewable Energy
   1. Selected among the other 4,520 participants (Top 9%) from around 47,800+ applicants as Machine Learning Cohort at Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka.
-  2. Selected among the other 47 mentees (Top 17%) from 274 GreenPath Project by SRE Indonesia Batch 2 applicants.
+  2. Selected among the other 47 mentees (Top 17%) from 274 GreenPath Project by SRE Indonesia Batch 2 applicants in 2023 on Start-up/IT track.
 
 ## Skills
 - **Programming**: Python, R, SQL, C++  
