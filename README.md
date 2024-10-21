@@ -33,7 +33,7 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 adjusted the specification to the building position, suggested panel, and existing inverter capacity.
 
 ## Projects
-- ⚗️ **[Colorimetry Project (On Going)](https://github.com/matchapresso/Colorimetry-Python-Based)**  
+- ⚗️ **[Colorimetry Project (On Going)](https://github.com/matchapresso/Colorimetry-Python-Based)** - 2024
 - 📊 **[Pengelolaan Emisi Gas Rumah Kaca melalui Teknologi Scrubbing NH3 Terintegrasi dengan Machine Learning untuk Pemantauan dan Prediksi Emisi dengan Decision Tree dan Long Short-term Memory](https://github.com/matchapresso/KurvaPupukKujang)** - 2024
 - 🧪 **[Sea Water Quality Monitoring](https://github.com/matchapresso/IoT-Kualitas-Air.git)** - 2024
 - 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)** - 2023
