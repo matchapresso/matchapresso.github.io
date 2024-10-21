@@ -29,12 +29,12 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 adjusted the specification to the building position, suggested panel, and existing inverter capacity.
 
 ## Projects
-- ⚗️ **[Colorimetry Project](https://github.com/matchapresso/Colorimetry-Python-Based)**  
-- 📊 **[Pengelolaan Emisi Gas Rumah Kaca melalui Teknologi Scrubbing NH3 Terintegrasi dengan Machine Learning untuk Pemantauan dan Prediksi Emisi dengan Decision Tree dan Long Short-term Memory](https://github.com/matchapresso/KurvaPupukKujang)**
-- 🧪 **[Sea Water Quality Monitoring](https://github.com/matchapresso/IoT-Kualitas-Air.git)**
-- 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)**
-- 🔬 **[Integrasi CNN Dan Molecular Docking Dalam Pengembangan Obat Katarak Melalui Deteksi Crystallins Pada Citra Retinal Fundus](https://drive.google.com/file/d/1-pSGvJmU1TzWEowg6YjDTEivIVFsX-Bg/view)**  
-- 🌾 **[FarmOpt.AI for Fertinnovation 2023](https://github.com/matchapresso/FarmOpt.AI)**
+- ⚗️ **[Colorimetry Project (On Going)](https://github.com/matchapresso/Colorimetry-Python-Based)**  
+- 📊 **[Pengelolaan Emisi Gas Rumah Kaca melalui Teknologi Scrubbing NH3 Terintegrasi dengan Machine Learning untuk Pemantauan dan Prediksi Emisi dengan Decision Tree dan Long Short-term Memory](https://github.com/matchapresso/KurvaPupukKujang)** - 2024
+- 🧪 **[Sea Water Quality Monitoring](https://github.com/matchapresso/IoT-Kualitas-Air.git)** - 2024
+- 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)** - 2023
+- 🔬 **[Integrasi CNN Dan Molecular Docking Dalam Pengembangan Obat Katarak Melalui Deteksi Crystallins Pada Citra Retinal Fundus](https://drive.google.com/file/d/1-pSGvJmU1TzWEowg6YjDTEivIVFsX-Bg/view)** - 2023
+- 🌾 **[FarmOpt.AI for Fertinnovation 2023](https://github.com/matchapresso/FarmOpt.AI)** - 2023
 
 ## Achievements
 - 🏆 **[3rd Runner Up (Harapan 1) on "Kurva"](https://drive.google.com/file/d/1qjlQPilz_Vnc1plb1pQVrPQL_dwHzo-E/view?usp=drive_link)** - PT. Pupuk Kujang (2024)
