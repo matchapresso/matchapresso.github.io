@@ -8,8 +8,8 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
   Focus: Machine Learning, Data Analysis, Renewable Energy
 
 ## Skills
-- **Programming**: Python, R, SQL, JavaScript  
-- **Machine Learning**: LSTM, Decision Trees, Neural Networks  
+- **Programming**: Python, R, SQL, C++  
+- **Machine Learning**: Computer Vision, Time-Series Forecasting, NLP, LLM  
 - **Tools**: TensorFlow, OpenCV, Pandas, Flask  
 - **Business Analysis**: Data-driven decision-making, Business Process Optimization 
 
