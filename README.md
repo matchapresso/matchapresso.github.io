@@ -33,7 +33,7 @@ adjusted the specification to the building position, suggested panel, and existi
 - 📊 **[Pengelolaan Emisi Gas Rumah Kaca melalui Teknologi Scrubbing NH3 Terintegrasi dengan Machine Learning untuk Pemantauan dan Prediksi Emisi dengan Decision Tree dan Long Short-term Memory](https://github.com/matchapresso/KurvaPupukKujang)**
 - 🧪 **[Sea Water Quality Monitoring](https://github.com/matchapresso/IoT-Kualitas-Air.git)**
 - 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)**
-- 🔬[Integrasi CNN Dan Molecular Docking Dalam Pengembangan Obat Katarak Melalui Deteksi Crystallins Pada Citra Retinal Fundus](https://drive.google.com/file/d/1-pSGvJmU1TzWEowg6YjDTEivIVFsX-Bg/view)  
+- 🔬 **[Integrasi CNN Dan Molecular Docking Dalam Pengembangan Obat Katarak Melalui Deteksi Crystallins Pada Citra Retinal Fundus](https://drive.google.com/file/d/1-pSGvJmU1TzWEowg6YjDTEivIVFsX-Bg/view)**  
 - 🌾 **[FarmOpt.AI for Fertinnovation 2023](https://github.com/matchapresso/FarmOpt.AI)**
 
 ## Achievements
