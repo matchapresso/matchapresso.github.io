@@ -5,8 +5,8 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 
 ## Education
 - 🎓 **[Bachelor of Science in Electronics and Instrumentation, Universitas Gadjah Mada]** (2021-2025 Expected)  
-  Focus: Machine Learning, Data Analysis, Renewable Energy
-  Activities:
+  Focus and Activities:
+  1. Machine Learning, Data Analysis, Renewable Energy
   1. Selected among the other 4,520 participants (Top 9%) from around 47,800+ applicants as Machine Learning Cohort at Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka.
   2. Selected among the other 47 mentees (Top 17%) from 274 GreenPath Project by SRE Indonesia Batch 2 applicants.
 
