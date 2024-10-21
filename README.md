@@ -14,7 +14,8 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 - **Programming**: Python, R, SQL, C++  
 - **Machine Learning**: Computer Vision, Time-Series Forecasting, NLP, LLM  
 - **Tools**: TensorFlow, OpenCV, PyTorch, Google Cloud Platform 
-- **Business Analysis**: Data-driven decision-making, Business Process Optimization, Data Visualization 
+- **Business Analysis**: Data-driven decision-making, Business Process Optimization, Data Visualization
+- **Language**: **[Indonesian](https://ugm365-my.sharepoint.com/:b:/g/personal/areta_vahtsa2401_365_ugm_ac_id/EdbMimkCOeNBnql83dPDIkMBjPQTC_i50l8qenTbFGyEcA?e=LSmo49)**, **[English](https://www.efset.org/cert/uuEkzn)**, Korean  
 
 ## Work Experience
 - 👩🏽‍💻 **[AI Engineer at PT. Widya Inovasi Indonesia](https://drive.google.com/file/d/1VUu5PcCb9PZZryQqbcNKYgehcstnC3ZG/view?usp=drive_link)** (Feb 2024-Jun 2024)  
@@ -55,9 +56,9 @@ adjusted the specification to the building position, suggested panel, and existi
   
 ## 8. Talks
 - 🎤 **[Speaker and Contributor at Watt's Next, Podcast by SRE UGM collaborate with DEM UGM](https://www.youtube.com/watch?v=QXUHPuVZ3Uc&feature=youtu.be)**  (2023)
-- 🎤 **[Speaker at Zenius Live QnA Alumni Series](#)** Zenius (2021)
+- 🎤 **[Speaker at Zenius Live QnA Alumni Series](https://www.instagram.com/p/CSvpoyVB8BJ/?igsh=MXZ4NXR4cGh6cWJndA==)** Zenius (2021)
 
-## 8. Contact
+## 10. Contact
 Feel free to explore more about me here!
 
 - **Email**: areta.vahtsa2401@mail.ugm.ac.id  
