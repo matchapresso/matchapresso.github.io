@@ -6,6 +6,9 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 ## Education
 - 🎓 **[Bachelor of Science in Electronics and Instrumentation, Universitas Gadjah Mada]** (2021-2025 Expected)  
   Focus: Machine Learning, Data Analysis, Renewable Energy
+  Activities:
+  1. Selected among the other 4,520 participants (Top 9%) from around 47,800+ applicants as Machine Learning Cohort at Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka.
+  2. Selected among the other 47 mentees (Top 17%) from 274 GreenPath Project by SRE Indonesia Batch 2 applicants.
 
 ## Skills
 - **Programming**: Python, R, SQL, C++  
@@ -48,7 +51,8 @@ adjusted the specification to the building position, suggested panel, and existi
 ## 7. Credentials and Certificates
 - 🏅 **[Google Play Store Listing Certificate](https://www.credential.net/81d457d5-5d1f-4491-8a17-b8ae1784527f#gs.gcao55)** – Google Play Academy (2024)
 - 🏅 **[2nd Tier on #JuaraGCP Season 10](https://www.linkedin.com/posts/arakirana_juaragcps10-juaragcps10-activity-7234510321476874240-dhm-?utm_source=share&utm_medium=member_desktop)**
-
+- 🏅 **[DeepLearning.AI TensorFlow Developer Specialization]([https://www.credential.net/81d457d5-5d1f-4491-8a17-b8ae1784527f#gs.gcao55](https://www.coursera.org/account/accomplishments/specialization/certificate/5FVCGBVYNCHE)** – DeepLearning.AI (2023)
+  
 ## 8. Talks
 - 🎤 **[Speaker and Contributor at Watt's Next, Podcast by SRE UGM collaborate with DEM UGM](https://www.youtube.com/watch?v=QXUHPuVZ3Uc&feature=youtu.be)**  (2023)
 - 🎤 **[Speaker at Zenius Live QnA Alumni Series](#)** Zenius (2021)
