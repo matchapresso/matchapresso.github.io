@@ -1,21 +1,20 @@
 # Areta Vahtsa's Portfolio
 
 ## Summary
-Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation student_ with experience in AI, ML, and business automation. I specialize in **large language models (LLMs)**, **time-series forecasting**, and **data-driven decision-making**. 
+Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation student_ with experience in AI, ML, and business automation. I specialize in **large language models (LLMs)**, **time-series forecasting**, and **data-driven decision-making**. Propelled by her passion, she is aiming to create more inventions and impact in the innovation of emerging technology.
 
 ## Education
-- 🎓 **Bachelor of Science in Electronics and Instrumentation**, [Universitas Gadjah Mada] (2021-2025 Expected)  
+- 🎓 **[Bachelor of Science in Electronics and Instrumentation, Universitas Gadjah Mada]** (2021-2025 Expected)  
   Focus: Machine Learning, Data Analysis, Renewable Energy
 
 ## Skills
 - **Programming**: Python, R, SQL, JavaScript  
 - **Machine Learning**: LSTM, Decision Trees, Neural Networks  
 - **Tools**: TensorFlow, OpenCV, Pandas, Flask  
-- **Business Analysis**: Data-driven decision-making, Business Process Optimization  
-- **Web Development**: HTML, CSS, Flask
+- **Business Analysis**: Data-driven decision-making, Business Process Optimization 
 
 ## Work Experience
-- 👩🏽‍💻 **AI Engineer** at [PT. Widya Inovasi Indonesia](https://widya.ai/) (Feb 2024-Jun 2024)  
+- 👩🏽‍💻 **[AI Engineer at PT. Widya Inovasi Indonesia](https://drive.google.com/file/d/1VUu5PcCb9PZZryQqbcNKYgehcstnC3ZG/view?usp=drive_link)** (Feb 2024-Jun 2024)  
   1. Developed LLM models to improve customer service interactions.
   2. Worked on AI-based meeting note-taking product model optimization using LLM model Vertex AI and LangChain framework.
   3. Optimized speaker diarization feature for addressing transcription part on meeting note-taking product using Sklearn.
@@ -33,15 +32,15 @@ adjusted the specification to the building position, suggested panel, and existi
 - ⚗️ **[Colorimetry Project](https://github.com/matchapresso/Colorimetry-Python-Based)**  
 - 📊 **[Pengelolaan Emisi Gas Rumah Kaca melalui Teknologi Scrubbing NH3 Terintegrasi dengan Machine Learning untuk Pemantauan dan Prediksi Emisi dengan Decision Tree dan Long Short-term Memory](https://github.com/matchapresso/KurvaPupukKujang)**
 - 🧪 **[Sea Water Quality Monitoring](https://github.com/matchapresso/IoT-Kualitas-Air.git)**
-- 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)**  
+- 📚 **[AlphaLearn: Olympic Preparation Mobile Application](https://github.com/AlphaLearnApp/ml-alphalearn)**
+- 🔬[Integrasi CNN Dan Molecular Docking Dalam Pengembangan Obat Katarak Melalui Deteksi Crystallins Pada Citra Retinal Fundus](https://drive.google.com/file/d/1-pSGvJmU1TzWEowg6YjDTEivIVFsX-Bg/view)  
 - 🌾 **[FarmOpt.AI for Fertinnovation 2023](https://github.com/matchapresso/FarmOpt.AI)**
 
 ## Achievements
-- 🏆 **3rd Runner Up (Harapan 1) on "Kurva"** - PT. Pupuk Kujang (2024)
-- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Puspresnas (2024)
+- 🏆 **[3rd Runner Up (Harapan 1) on "Kurva"](https://drive.google.com/file/d/1qjlQPilz_Vnc1plb1pQVrPQL_dwHzo-E/view?usp=drive_link)** - PT. Pupuk Kujang (2024)
+- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Pusat Prestasi Nasional Kemdikbud (2024)
 - 🏆 **[Finalist in Pagelaran Mahasiswa Tingkat Nasional Bidang Teknologi Informasi dan Komunikasi (GemasTIK) in ICT Scientific Paper Category](https://drive.google.com/file/d/10kXy5K5DCgAGSb0FtnoPz6M_J9Ukt2Z6/view?usp=sharing)** – Pusat Prestasi Nasional Kemdikbud (2023)
-- 🏆 **[Finalist in Pagelaran Mahasiswa Tingkat Nasional Bidang Teknologi Informasi dan Komunikasi (GemasTIK) in ICT Scientific Paper Category](https://drive.google.com/file/d/10kXy5K5DCgAGSb0FtnoPz6M_J9Ukt2Z6/view?usp=sharing)** – Pusat Prestasi Nasional Kemdikbud (2023)
-- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Puspresnas (2023)
+- 🏆 **[Incentives Winner at PKM-GFT Category held by Kemendikbudristek and Puspresnas](#)** - Pusat Prestasi Nasional Kemdikbud (2023)
 - 🏆 **[Finalist in Pagelaran Mahasiswa Tingkat Nasional Bidang Teknologi Informasi dan Komunikasi (GemasTIK) in Smart Devices, Embedded System, and Internet of Things Category](https://drive.google.com/file/d/1kQMg7TK0fTz_-Y2z0W9yOn9yq0CCl8CS/view?usp=drive_link)** – Pusat Prestasi Nasional Kemdikbud (2022)
 - 🏆 **[ Top 10 of CTA Challenge in Impact Circle 3.0 AIESEC Universitas Padjajaran](https://drive.google.com/file/d/10kXy5K5DCgAGSb0FtnoPz6M_J9Ukt2Z6/view?usp=sharing)** – AIESEC Universitas Padjajaran (2022)
 
@@ -55,9 +54,11 @@ adjusted the specification to the building position, suggested panel, and existi
 - 🎤 **[Speaker at Zenius Live QnA Alumni Series](#)** Zenius (2021)
 
 ## 8. Contact
+Feel free to explore more about me here!
 
 - **Email**: areta.vahtsa2401@mail.ugm.ac.id  
 - **LinkedIn**: [linkedin.com/in/arakirana](https://linkedin.com/in/arakirana)  
 - **GitHub**: [github.com/matchapresso](https://github.com/matchapresso)
+- **Instagram**: [instagram.com/kiii.rn_](instagram.com/kiii.rn_)
 
-Feel free to explore more about me [here](#)!
+
