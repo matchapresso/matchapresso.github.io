@@ -10,8 +10,8 @@ Hello! My name is **Areta Vahtsa**, and I am a _Electronics and Instrumentation 
 ## Skills
 - **Programming**: Python, R, SQL, C++  
 - **Machine Learning**: Computer Vision, Time-Series Forecasting, NLP, LLM  
-- **Tools**: TensorFlow, OpenCV, Pandas, Flask  
-- **Business Analysis**: Data-driven decision-making, Business Process Optimization 
+- **Tools**: TensorFlow, OpenCV, PyTorch, Google Cloud Platform 
+- **Business Analysis**: Data-driven decision-making, Business Process Optimization, Data Visualization 
 
 ## Work Experience
 - 👩🏽‍💻 **[AI Engineer at PT. Widya Inovasi Indonesia](https://drive.google.com/file/d/1VUu5PcCb9PZZryQqbcNKYgehcstnC3ZG/view?usp=drive_link)** (Feb 2024-Jun 2024)  
